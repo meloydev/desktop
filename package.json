@@ -1,0 +1,22 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meloydev/desktop.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "mike meloy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meloydev/desktop/issues"
+  },
+  "homepage": "https://github.com/meloydev/desktop#readme"
+}
